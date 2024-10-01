@@ -1,4 +1,4 @@
-# Hello! 👋 I'm [Your Name]
+# Hello! 👋 I'm Shital Prajapati.
 
 ## 🌱 Aspiring Full Stack Developer | 🎓 Eager to Learn & Grow
 
@@ -42,13 +42,13 @@ I am a *fresher full-stack developer* passionate about technology and web develo
 
 ### 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: [Your Email]
+- LinkedIn:https://www.linkedin.com/in/shital-prajapati-778864301/
+- Email: shitalprajapati7579@gmail.com
 
 ---
 
 ### 🌟 Fun Facts
 
 - I love learning new technologies and experimenting with coding challenges.
-- Outside of coding, I enjoy [hobby or interest].
+- Outside of coding, I enjoy traveling or listening song.
 - Always happy to connect with other developers and exchange ideas!
