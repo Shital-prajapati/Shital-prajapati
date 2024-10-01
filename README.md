@@ -1,54 +1,47 @@
-# Hello! 👋 I'm Shital Prajapati.
+# Hi there, I'm 👋 Shital Prajapati
 
-## 🌱 Aspiring Full Stack Developer | 🎓 Eager to Learn & Grow
-
----
-
-### 🛠 Skills & Tools
-
-*Frontend:*
-- HTML5, CSS3, JavaScript
-- Learning React.js / Vue.js / Angular (pick one you're interested in)
-
-*Backend:*
-- Basic Node.js with Express.js (or any backend language you're learning)
-- MySQL, MongoDB (or any database you're exploring)
-
-*Version Control:*
-- Git, GitHub
-
-*Currently Learning:*
-- Full-stack development, focusing on [specific technologies or frameworks you're learning]
+I'm a passionate **Full Stack Developer** with experience in building dynamic and responsive web applications. I love working with both frontend and backend technologies, and I always strive to deliver user-centric solutions.
 
 ---
 
-### 👨‍💻 About Me
+## 🛠️ My Tech Stack:
 
-I am a *fresher full-stack developer* passionate about technology and web development. I am currently focusing on improving my skills in both frontend and backend development. While I don't have projects to showcase yet, I am actively learning and eager to start building my portfolio.
+### Frontend:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+li ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=ffffff)
+![Pug](https://img.shields.io/badge/-Pug-A86454?style=flat&logo=pug&logoColor=ffffff)
 
-- 🌱 I’m currently learning: *Full-stack development with [specific technology]*
-- 🔭 I’m working on: *Small exercises to strengthen my coding skills*
-- 👯 I’m looking to collaborate on: *Beginner-friendly open-source projects*
-- 🤔 I’m looking for help with: *Improving my backend and database knowledge*
-- 💬 Ask me about: *HTML, CSS, and JavaScript fundamentals*
+
+### Backend:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat-square)
+
+### Databases:
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+
+### DevOps & Tools:
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+
+## 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)] https://www.linkedin.com/in/shital-prajapati-778864301/
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://yourwebsite.com)
 
 ---
 
-### 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
-### 📫 How to Reach Me
-
-- LinkedIn:https://www.linkedin.com/in/shital-prajapati-778864301/
-- Email: shitalprajapati7579@gmail.com
-
----
-
-### 🌟 Fun Facts
-
-- I love learning new technologies and experimenting with coding challenges.
-- Outside of coding, I enjoy traveling or listening song.
-- Always happy to connect with other developers and exchange ideas!
+Thanks for stopping by! 😊
